@@ -31,4 +31,4 @@ Also: **[Ruyo Client](https://github.com/einnor/ruyo-client)**, a legacy TypeScr
 - **State the consistency boundary.** Atomic file writes, database transactions and at-least-once delivery solve different problems.
 - **Keep demonstrations honest.** Local fixtures, external integrations and production-readiness gaps are explicitly identified in each README.
 
-These are hands-on portfolio and learning projects, including refreshed older implementations. Their value is in the code, decisions and reproducible behavior—not claims of unverified production scale.
+These are hands-on portfolio and learning projects. Each README includes reproducible setup, architectural decisions, and clear boundaries around what has been verified.
